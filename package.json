@@ -1,0 +1,26 @@
+{
+  "name": "onedark-vivid-vscode",
+  "displayName": "onedark-vivid-vscode",
+  "description": "Vivid colors edition for One Dark color palette",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Vivid",
+        "uiTheme": "vs-dark",
+        "path": "./themes/onedark-vivid.json"
+      },
+      {
+        "label": "One Dark Vivid Flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/onedark-vivid-flat.json"
+      }
+    ]
+  }
+}
