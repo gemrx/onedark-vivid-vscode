@@ -2176,7 +2176,7 @@
 	  "editorBracketMatch.background": "#515a6b",
 	  "editorBracketMatch.border": "#515a6b",
 	  "editorCursor.background": "#ffffffc9",
-	  "editorCursor.foreground": "#528bff",
+      "editorCursor.foreground": "#f0f0f0",
 	  "editorError.foreground": "#c24038",
 	  "editorGroup.background": "#1e2127",
 	  "editorGroup.border": "#1e2127",
